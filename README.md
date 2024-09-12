@@ -1,1 +1,1 @@
-# linear-regression-boston-house-
+# linear-regression-boston-house-prediction
